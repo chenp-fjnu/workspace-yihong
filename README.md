@@ -5,6 +5,7 @@
     - git config --global user.name "Yihong.Chen"
 
 
-- git pull //获取最新代码
-- git commit -m '备注，说明变更内容'   //提交代码到本地仓库
+- git pull  //获取最新代码
+- git add . //增加本地变更
+- git commit -m '备注，说明变更内容' //提交代码到本地仓库
 
