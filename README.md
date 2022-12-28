@@ -1,4 +1,5 @@
 # 记录学习编程过程
+学习资料：https://github.com/chenp-fjnu/KidsProgram/blob/main/%E5%88%9D%E4%B8%AD%E7%94%9F%E7%BC%96%E7%A8%8B.md
 
 ## Git操作
 - 设置本地git配置
